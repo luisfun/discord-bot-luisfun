@@ -12,7 +12,7 @@ npm i
 ## Setup Discord bot
 
 Create a New Application from [Dashboard](https://discord.com/developers/applications).  
-Copy your `APPLICATION ID`, `PUBLIC KEY` and `TOKEN`, and put them `.dev.vars` file.
+Copy your `APPLICATION ID`, `PUBLIC KEY` and `TOKEN`, and put them `.env` file.
 
 Storing secrets.
 
